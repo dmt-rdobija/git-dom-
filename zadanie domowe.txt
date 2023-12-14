@@ -1,0 +1,25 @@
+1. Jak dzielimy typy danych?  Typy danych dzielimy na :
+Int
+float
+double
+char
+boolean
+String
+1. Skąd wynika różnica w pisowni wielka liter typu String?
+String jest obiektem iwielkość litery ma znaczenie
+
+2. Jakie sa wielkości poszczególnych typów.
+
+int - 32 bity
+float - 32 bity
+double - 64 bity
+char - 16 bitów
+boolean - 1 bit
+
+3.Jakie sa zakresy wartości możliwych do przechowywania dla poszczególnych typów
+
+int -  od -2147483648 do 2147483647
+float -  od 1.4 * 10^-45 do 3.4028235*10^38
+double -  od 4.9 * 10^-324 do 1.7976931348623157*10^308
+char - 1 znak unicode
+boolean -  true/false
